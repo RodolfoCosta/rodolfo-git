@@ -1,0 +1,173 @@
+<style>
+                  h1 {
+                        font-family: Arial;
+                        font-size: 70pt;
+                        color: white;
+                        text-shadow: 2px 2px 2px white;
+                        text-align: center;
+
+                  }
+
+                  h2 {
+                        font-family: Arial;
+                        font-size: 50pt;
+                        color: white;
+                        text-shadow: 2px 2px 2px white;
+                        text-align: center;
+
+                  }
+
+                  body {
+
+                        font-family: Arial;
+                        font-size: 25pt;
+                        color: black;     
+                        background-color: black;
+                        background-repeat: no-repeat;
+                        -webkit-background-size:cover;
+                  }
+
+                  img{
+
+                        height: 10%;
+                        width: 10%;
+
+                  }
+
+                  a{
+                        color: blue;      
+                  }
+
+                  #deku{
+
+                        height: 8.5%;
+                        width: 8.5%;
+                        float: none;
+                  }
+
+                  div{
+
+                        color: white;
+                  }
+
+                  ul{
+
+                        margin: 5;
+                        padding: 0;
+                        list-style: none;
+                        width: 200px;
+
+                  }
+
+                  ul li{
+
+                        position: relative;
+                  }
+
+                  li ul{
+
+                        position: absolute;
+                        left: 149px;
+                        top: 0;
+                        display: none;
+                  }
+
+                  ul li a{
+
+                        display: block;
+                        text-decoration: none;
+                        color: blue;
+                        padding: 20px;
+                        border: 3px solid #ccc;
+                        font-weight: bold;      
+                  }
+                 p{
+                  color: white;
+                 }
+
+                 #linkedin{
+                  width: 3%;
+                  height: 3%;
+
+                 }
+
+                  #gmail{
+                  width: 3%;
+                  height: 3%;
+            }
+
+                  #whatsapp{
+                  width: 3%;
+                  height: 3%;
+
+                 }
+
+                  #objetivo{
+                  color: white;
+
+                 }
+
+                 #bk{
+                        background-repeat: no-repeat;
+                        -webkit-background-size:cover;
+                        opacity: 5;
+
+                 }
+
+                 #pobjetivo{
+                  color: white;
+                  text-align: center;
+                  text-align: top;
+
+                 }
+
+                 #phobbies{
+                  color: red;
+                  text-align: center;
+                  text-align: top;
+
+                 } 
+
+                 #um{
+                        width: 20%;
+                        height: 20%;
+                 }
+
+                 #dois{
+                  
+                        width: 20%;
+                        height: 20%;
+                 }
+
+                 #tres{
+                  
+                        width: 15%;
+                        height: 15%;
+                 }
+
+
+                 #quatro{
+                  
+                        width: 23%;
+                        height: 23%;
+                 }
+
+                 #cinco{
+                  
+                        width: 20%;
+                        height: 20%;
+                 }
+
+                 #seis{
+                  
+                        width: 20%;
+                        height: 20%;
+                 }
+                 #sete{
+                  
+                        width: 30%;
+                        height: 30%;
+                 }
+
+
+            </style>

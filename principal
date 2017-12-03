@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    
+        <head>
+            <meta charset="UTF-8">
+            <title> Rodolfo's page </title>
+            <link rel="stylesheet" type="text/css" href="main.css">
+            
+        </head>
+
+        <body id="objetivo" background="animes2.jpg">
+       			<ul id="Dropdown">
+       				<li> <a href="C:\Users\rodol\Desktop\Front End\Cursoemvideo - site pessoal rodolfo.html" target="_blank"> Currículo</a></li>
+       				<li> <a href="C:\Users\rodol\Desktop\Front End\objetivos.html" target="_blank"> Objetivos </a> </li>
+       				<li> <a href="C:\Users\rodol\Desktop\Front End\hobbies.html" target="_blank"> Hobbies </a></li>
+       				</li>
+       				<li> <a href="C:\Users\rodol\Desktop\Front End\contato.html" target="_blank"> Contato </a></li>
+       			</ul>
+
+        </body>
+
+    </html>

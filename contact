@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    
+        <head>
+            <meta charset="UTF-8">
+            <title> Contato </title>
+            <link rel="stylesheet" type="text/css" href="main.css">
+            
+        </head>
+
+        <body background="fundopreto.jpg.jpg">
+  
+          <p> <img id="whatsapp" src="whatsapp.jpg"> </img> Whatssapp: (11) 9 6632 - 2418</p>
+          <p> <img id="gmail" src="gmail.jpg"> </img> rodolfo.dacostalacerda@gmail.com </p>
+          <p> <img id="linkedin" src="linkedin.jpg"> </img> <a href="https://www.linkedin.com/in/rodolfo-da-costa-lacerda-896b4051/"> LinkedIn</a> </p>
+
+        </body>
+
+    </html>

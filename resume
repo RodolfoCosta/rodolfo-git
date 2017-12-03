@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    
+        <head>
+            <meta charset="UTF-8">
+            <title> Rodolfo's resume </title>
+            <link rel="stylesheet" type="text/css" href="main.css">
+            
+        </head>
+
+        <body background="fundopreto.jpg">
+
+
+        	<div id="Interface">
+	        	<h1> Rodolfo da Costa Lacerda </h1>
+	        	<aside>
+	        		<img src="C:\Users\rodol\Desktop\Front End\rodolfo.jpg.png"> </img>
+	        		<p> <a href="https://www.linkedin.com/in/rodolfo-da-costa-lacerda-896b4051/" target="_blank"> LinkedIn</a> </p>
+	        	</aside>
+
+				Graduando em Sistemas de Informação pela Faculdade Impacta de Tecnologia (com diploma de Tecnólogo em Análise e Desenvolvimento de Sistemas ao término do segundo ano de curso). Graduado em Gestão de Recursos Humanos pela Universidade Metodista de São Paulo (UMESP).
+
+				<h2> Experiências profissionais</h2>
+
+				Última empresa: Termomecânica
+				<br>
+				Último cargo: Operador de produção
+				<br>
+				Atividades desempenhadas: Responsável por realizar processos de usinagem utilizando ferramentas para controle de qualidade do produto e do processo. Rebarbar e lixar peças dando acabamento. Inspecionar o produto final antes de liberá-lo. Operar máquinas em células, tais como: prensa furadeira e fresadora convencional. Operar CNC e máquinas convencionais (esporadicamente). Limpeza e revitalização do local de trabalho.
+
+				<h2> Formação acadêmica </h2>
+
+				Instituição: Faculdade Impacta de Tecnologia
+				<br>
+				Curso: Sistemas de Informação (Bacharel)
+				<br>
+				Situação: Cursando (fev/2018 - dez/2021)
+				<br>
+				<br>
+				Instituição: Faculdade Impacta de Tecnologia
+				<br>
+				Curso: Análise e Desenvolvimento de Sistemas (Tecnólogo)
+				<br>
+				Situação: Cursando (fev/2018 - dez/2019)
+				<br>
+				<br>
+				Instituição: Universidade Metodista de São Paulo
+				<br>
+				Curso: Gestão Empresarial (Pós-graduação)
+				<br>
+				Situação: Cursando (agos/2013 - dez/2014)
+				<br>
+				<br>
+				Instituição: Universidade Metodista de São Paulo
+				<br>
+				Curso: Gestão de Recursos Humanos (Tecnólogo)
+				<br>
+				Situação: Cursando (agos/2011 - jun/2013)
+
+				<h2> Cursos extra-curriculares </h2>
+
+				Curso: Lógica de Programação com JavaScript
+				<br>
+				Instituição: Caelum
+				<br>
+				<br>
+				Curso: Algorítmos
+				<br>
+				Instituição: CursoemVideo.com
+				<br>
+				<br>
+				Curso: HTML5 e CSS3 - Suas Primeiras Páginas na Web
+				<br>
+				Instituição: Alura
+				<br>
+				<br>
+				Curso: Inglês
+				<br>
+				Instituição: Minds English School
+				<br>
+				<br>
+				Curso: HTTP - Entendendo a Web por Baixo dos Panos
+				<br>
+				Instituição: Alura
+				<br>
+				<br>
+				Curso: Basic Concepts of Computer Science
+				<br>
+				Instituição: Code.org
+				<br>
+				<br>
+				Curso: Informática - Pacote Office
+				<br>
+				Instituição: Santo Izidoro
+				<br>
+				<br>
+				Curso: Java - Primeiros Passos
+				<br>
+				Instituição: Alura
+				<br>
+				<br>
+				Curso: Java - Orientação a Objetos
+				<br>
+				Instituição: Alura
+				<br>
+				<br>
+				Curso: Java
+				<br>
+				Instituição: CursoemVideo.com
+				<br>
+				<br>
+				Curso: Python3 - Mundo 01: Fundamentos
+				<br>
+				Instituição: CursoemVideo.com
+		</div>
+
+        </body>
+
+    </html>
